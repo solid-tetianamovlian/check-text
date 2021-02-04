@@ -1,0 +1,15 @@
+name: check-word-presence
+
+on: pull_request
+
+jobs:
+  check:
+    name: Check word presence
+    runs-on: macOS-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check PR
+        uses: JJ/github-pr-contains-action@releases/v0
+        with:
+          github-token: ${{ github.token }}
+          diffContains: ['test']
