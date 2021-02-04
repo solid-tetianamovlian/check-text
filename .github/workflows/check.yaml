@@ -3,7 +3,7 @@ name: check-word-presence
 on: pull_request
 
 jobs:
-  check:
+  check_pr:
     name: Check word presence
     runs-on: macOS-latest
     timeout-minutes: 60
