@@ -9,62 +9,62 @@ jobs:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines1:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines2:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines3:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines4:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines5:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
 
-  check-license-lines:
+  check-license-lines6:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines7:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines8:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines9:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
       uses: kt3k/license_checker@v1.0.3
-  check-license-lines:
+  check-license-lines10:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
